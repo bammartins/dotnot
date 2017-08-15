@@ -1,2 +1,3 @@
-# dotnot
- Basic Studies C # .NET
+# DotNot
+ Basic Studies C# .NET
+ This is a console application
