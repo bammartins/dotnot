@@ -12,5 +12,13 @@ namespace Base.Core.Models
         public String   Address { get; set; }
         public Phone    Phone { get; set; }
         public String   Status { get; set; }
+
+        public Client (string name, string address, Phone phone, string stats)
+        {
+            this.Name = name;
+            this.Address = address;
+            this.Phone = phone;
+            this.Status = stats;
+        }
     }
 }

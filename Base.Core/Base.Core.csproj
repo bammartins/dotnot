@@ -43,6 +43,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Models\Client.cs" />
     <Compile Include="Models\Phone.cs" />
+    <Compile Include="Models\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

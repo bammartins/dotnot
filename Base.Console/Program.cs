@@ -12,10 +12,13 @@ namespace Base.Console
         static void Main(string[] args)
         {
             Client cli      = new Client();
+            Product p = new Product();
             Phone phNumber   = new Phone();
             List<Client> listCli = new List<Client>(); 
             bool flag = true;
 
+
+            
             while (flag == true)
             {
                 System.Console.Out.WriteLine("Digite o nome do Cliente");
