@@ -21,7 +21,6 @@ namespace Base.Core.Models
             this.Description = desc;
             this.Unit_Value = u_value;
             this.Hundred_Value = h_value;
-
         }
 
 
